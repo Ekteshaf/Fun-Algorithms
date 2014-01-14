@@ -3,4 +3,8 @@ Fun-Algorithms
 
 Cool algorithms 
 
-TODO: Greedy algorithm
+TODO: 
+-Greedy algorithm
+-Collatz Conjucture
+-Sorting Algorthms
+
